@@ -1,0 +1,9 @@
+# Ignore exact root environment file
+.env
+
+# Ignore any local variations (e.g., .env.local, .env.development, .env.production)
+.env.*
+
+# Ignore specific environment folders (if applicable, like a python virtual env)
+env/
+venv/
